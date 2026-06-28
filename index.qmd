@@ -1,0 +1,62 @@
+---
+title: "Ammar Eltigani"
+subtitle: "PhD Student in Mathematics"
+---
+
+::: {.hero}
+
+::: {.hero-image}
+![](images/profile.png){fig-alt="Profile image placeholder" width="240"}
+:::
+
+::: {.hero-text}
+
+## Ammar Eltigani
+
+I am a first-year PhD student in mathematics at the University of Michigan. My research interests include algebraic geometry, number theory, and related areas.
+
+I am interested in questions at the interface of geometry, arithmetic, and representation theory. More broadly, I enjoy mathematical exposition, teaching, and learning how different parts of mathematics talk to each other.
+
+
+## Research Interests
+
+- Algebraic geometry
+- Number theory
+- Arithmetic geometry
+- Representation theory
+- Moduli spaces
+- Homological and cohomological methods
+
+## Recent Updates
+
+- **May 2026:** Gave a talk in the Graduate Algebraic Geometry Seminar.
+- **March 2026:** Posted expository notes on spectral sequences.
+- **January 2026:** Attended the Joint Mathematics Meetings.
+- **December 2025:** Updated CV and research statement.
+
+
+## Teaching Experience
+
+### University of Michigan
+
+#### Instructor of Record (GSI)
+
+- **Math XXX: Course Name**, Summer 2026.
+
+## Mentoring and Outreach
+
+- Mentored undergraduate students in mathematics.
+- Assisted with graduate student seminars and reading groups.
+
+## CV
+
+[Download PDF CV](files/cv.pdf){.button .button-primary}
+
+Last updated: May 2026.
+
+## Contact
+
+Email: `altigani@umich.edu`  
+Office: East Hall, University of Michigan  
+GitHub: [ammareltigani](https://github.com/ammareltigani)  
+Google Scholar: [Profile link](https://scholar.google.com/citations?hl=en&user=3uzn-m0AAAAJ)

@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Ammar Eltigani"
+  description: "Welcome to my website!."
+  site-url: "https://ammareltigani.github.io"
+  repo-url: "https://github.com/ammareltigani/ammareltigani.github.io"
+
+  navbar:
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+
+    right:
+      - icon: github
+        href: https://github.com/ammareltigani
+        aria-label: GitHub
+      - icon: envelope
+        href: altigani@umich.edu
+        aria-label: Email
+
+  page-footer:
+    left: "© Ammar Eltigani"
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-copy: true
+    code-overflow: wrap
+    html-math-method: mathjax
+    link-external-newwindow: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto

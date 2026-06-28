@@ -1,0 +1,13 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+---
+
+I occasionally write expository posts, reading notes, and reflections on mathematics, teaching, and graduate school.
+
+The blog is informal, but I will try to keep the high-level mathematics honest.

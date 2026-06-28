@@ -1,0 +1,100 @@
+---
+title: "Research"
+---
+
+## Overview
+
+My research lies in algebraic geometry and number theory, broadly construed. I am interested in geometric objects that arise naturally in arithmetic contexts and in the algebraic, cohomological, and representation-theoretic structures attached to them.
+
+A recurring theme in my work is the use of geometric methods to understand arithmetic phenomena.
+
+## Research Themes
+
+### Algebraic Geometry
+
+I am interested in the geometry of algebraic varieties, especially moduli spaces and their cohomological invariants.
+
+Topics of interest include:
+
+- Moduli problems
+- Algebraic curves
+- Vector bundles and sheaves
+- Intersection theory
+- Derived and homological methods
+
+### Number Theory
+
+I am interested in arithmetic questions that can be studied using geometric methods.
+
+Topics of interest include:
+
+- Arithmetic geometry
+- Galois representations
+- Rational points
+- Arithmetic moduli spaces
+- Étale cohomology
+
+### Representation Theory
+
+I am also interested in the role of representation theory in geometry and number theory.
+
+Topics of interest include:
+
+- Representations of algebraic groups
+- Automorphic forms
+- Geometric representation theory
+- Hecke operators
+- Symmetry in cohomological problems
+
+## Current Projects
+
+### Project One
+
+Brief high-level description of the project. You do not need to reveal technical details of unpublished work.
+
+### Project Two
+
+Brief high-level description of another current or future project.
+
+### Project Three
+
+Brief high-level description of a possible expository or collaborative project.
+
+## Collaborators
+
+- Collaborator Name, Institution
+- Collaborator Name, Institution
+
+## Research Statement
+
+A research statement will be available here when appropriate.
+
+<!-- 
+You can later add:
+[Download research statement](files/research-statement.pdf)
+-->
+
+## Research Papers
+
+### Title of Your Research Paper
+
+With Coauthor Name. Preprint, 2026.
+
+**Abstract.**  
+We study a class of mathematical objects arising in algebraic geometry and number theory. Our main result establishes a structural theorem relating their cohomology to naturally occurring representation-theoretic data.
+
+**Links:**  
+[PDF](#) | [arXiv](#) | [Slides](#)
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@misc{yourname2026paper,
+  title        = {Title of Your Research Paper},
+  author       = {Your Name and Coauthor Name},
+  year         = {2026},
+  eprint       = {0000.00000},
+  archivePrefix = {arXiv},
+  primaryClass = {math.AG}
+}
