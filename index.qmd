@@ -3,56 +3,54 @@ title: "Ammar Eltigani"
 subtitle: "PhD Student in Mathematics"
 ---
 
-::: {.hero}
-
 ::: {.hero-image}
-![](images/profile.png){fig-alt="Profile image placeholder" width="240"}
+![](images/profile.png){fig-alt="Profile photo of Ammar Eltigani" width="240"}
 :::
 
-::: {.hero-text}
 
-## Ammar Eltigani
+## Biography
 
-I am a first-year PhD student in mathematics at the University of Michigan. My research interests include algebraic geometry, number theory, and related areas.
+I am a first-year PhD student in Mathematics at the **University of Michigan**. I earned my Master's in Mathematics also from the University of Michigan in 2026, and did my undergraduate degree in Mathematics and Computer Science at **Williams College**.
 
-I am interested in questions at the interface of geometry, arithmetic, and representation theory. More broadly, I enjoy mathematical exposition, teaching, and learning how different parts of mathematics talk to each other.
+My current research interests lie in probability, analysis, and the mathematics of data science.
 
-
-## Research Interests
-
-- Algebraic geometry
-- Number theory
-- Arithmetic geometry
-- Representation theory
-- Moduli spaces
-- Homological and cohomological methods
+I enjoy mathematical exposition, teaching, and seeing different parts of mathematics talk to each other.
 
 ## Recent Updates
 
-- **May 2026:** Gave a talk in the Graduate Algebraic Geometry Seminar.
-- **March 2026:** Posted expository notes on spectral sequences.
-- **January 2026:** Attended the Joint Mathematics Meetings.
-- **December 2025:** Updated CV and research statement.
+- **August 2026:** I will be attending a [summer school on high-dimensional probability](https://sites.northwestern.edu/highdimensionalprobability2026/) at Northwestern.
+- **June 2026:** I attended a really fun [summer school on random matrices](https://sites.google.com/umich.edu/rmtschool) at the University of Michigan.
+- **May-Present 2026:** I organized a graduate reading group at the University of Michigan on SDEs.
+- **April 2026:** I earned my Master's degree as part of the [Marjorie Lee Browne program](https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/doctoral-programs/the-marjorie-lee-browne-scholars-program.html)! As part of this, I did a reading with [Jinho Baik](https://sites.lsa.umich.edu/baik/) on interactions between random matrix theory and machine learning. [This](blog/posts/mlb-reading/) blog post contains a short write-up.
+- **Jan-April 2026:** I participated in a learning seminar on the basics of random matrix theory.
+- **Jan 2026:** I passed my PhD Qualifying Review exams!
+
 
 
 ## Teaching Experience
 
 ### University of Michigan
 
-#### Instructor of Record (GSI)
+#### Instructor of Record
 
-- **Math XXX: Course Name**, Summer 2026.
+- **Math 115: Calculus I**, Fall 2024, Winter 2025.
+- **Math 116: Calculus II**, Winter 2026, Fall 2026.
+
+### Williams College
+
+#### Teaching Assistant
+
+- Abstract Algebra, Applied Real Analysis, Algorithm Design and Analysis, Data Structures and Advanced Programming.
 
 ## Mentoring and Outreach
 
-- Mentored undergraduate students in mathematics.
-- Assisted with graduate student seminars and reading groups.
+- Last summer (2025), I mentored undergraduate students as part of the [MaCSS](https://sites.lsa.umich.edu/macss-scholars/) program, overseeing two data science projects and helping out with probability basics.
 
 ## CV
 
 [Download PDF CV](files/cv.pdf){.button .button-primary}
 
-Last updated: May 2026.
+Last updated: April 2026.
 
 ## Contact
 

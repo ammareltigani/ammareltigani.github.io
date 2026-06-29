@@ -1,0 +1,6 @@
+---
+title: "RMT 2026 Summer School: Strong Convergence"
+date: 2026-06-28
+categories: ["free probability", "random matrix theory", "random graphs", "strong convergence"]
+description: "Some of my takeaways from [Jorge Garza-Varga](https://sites.google.com/umich.edu/rmtschool#h.1vqmu911k7en)'s minicourse at the 2026 Random Matrix Theory summer school at the University of Michigan."
+---

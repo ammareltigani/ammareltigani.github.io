@@ -1,0 +1,6 @@
+---
+title: "Marchenko–Pastur and the Double-Descent Phenomenon"
+date: 2026-06-28
+categories: ["learning theory", "random matrix theory", "generalization", "linear models", "double-descent"]
+description: "Understanding the double-descent phenomenon in the overparameterized regime of linear least-square ridge regression through random matrix theory."
+---

@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Ammar Eltigani"
-  description: "Welcome to my website!."
+  description: "Welcome to my website!"
   site-url: "https://ammareltigani.github.io"
   repo-url: "https://github.com/ammareltigani/ammareltigani.github.io"
 
@@ -23,7 +23,7 @@ website:
         href: https://github.com/ammareltigani
         aria-label: GitHub
       - icon: envelope
-        href: altigani@umich.edu
+        href: mailto:altigani@umich.edu
         aria-label: Email
 
   page-footer:
