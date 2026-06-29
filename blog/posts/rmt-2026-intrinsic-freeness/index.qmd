@@ -1,6 +1,0 @@
----
-title: "RMT 2026 Summer School: Intrinsic Freeness"
-date: 2026-06-28
-categories: ["free probability", "random matrix theory", "matrix concentration inequalities", "intrinsic freeness"]
-description: "Some of my takeaways from [Ramon van Handel](https://sites.google.com/umich.edu/rmtschool#h.1w2rqt2y2azk)'s minicourse at the 2026 Random Matrix Theory summer school."
----

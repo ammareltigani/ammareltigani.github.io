@@ -1,6 +1,0 @@
----
-title: "RMT 2026 Summer School: Edge Statistics of Sparse Random Graphs"
-date: 2026-06-28
-categories: ["universality", "local laws", "random matrix theory", "configuration model"]
-description: "Some of my takeaways from [Jiaoyang Huang](https://jiaoyang.github.io/)'s minicourse at the 2026 Random Matrix Theory summer school."
----

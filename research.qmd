@@ -4,9 +4,9 @@ title: "Research"
 
 ## Overview
 
-I am interested in questions at the interface of random matrix theory, high-dimensional probability, spin glass models, and their applications to machine learning theory.
+I am interested in integrable probability, KPZ universality, and random matrix theory.
 
-I also want to learn more about integrable probability and KPZ universality.
+I also want to learn more about high-dimensional probability, spin glass models, and applications to machine learning theory.
 
 ## Undergraduate Research
 
