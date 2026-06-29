@@ -12,16 +12,14 @@ subtitle: "PhD Student in Mathematics"
 
 I am a first-year PhD student in Mathematics at the **University of Michigan**. I earned my Master's in Mathematics also from the University of Michigan in 2026, and did my undergraduate degree in Mathematics and Computer Science at **Williams College**.
 
-My current research interests lie in probability, analysis, and the mathematics of data science.
-
-I enjoy mathematical exposition, teaching, and seeing different parts of mathematics talk to each other.
+I am interested in probability, analysis, and the mathematics of data science.
 
 ## Recent Updates
 
 - **August 2026:** I will be attending a [summer school on high-dimensional probability](https://sites.northwestern.edu/highdimensionalprobability2026/) at Northwestern.
 - **June 2026:** I attended a really fun [summer school on random matrices](https://sites.google.com/umich.edu/rmtschool) at the University of Michigan.
 - **May-Present 2026:** I organized a graduate reading group at the University of Michigan on SDEs.
-- **April 2026:** I earned my Master's degree as part of the [Marjorie Lee Browne program](https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/doctoral-programs/the-marjorie-lee-browne-scholars-program.html)! As part of this, I did a reading with [Jinho Baik](https://sites.lsa.umich.edu/baik/) on interactions between random matrix theory and machine learning. [This](blog/posts/mlb-reading/) blog post contains a short write-up.
+- **April 2026:** I earned my Master's degree through the [Marjorie Lee Browne program](https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/doctoral-programs/the-marjorie-lee-browne-scholars-program.html)! As part of this, I did a reading with [Jinho Baik](https://sites.lsa.umich.edu/baik/) on interactions between random matrix theory and machine learning. [This](blog/posts/mlb-reading/) blog post contains a short write-up.
 - **Jan-April 2026:** I participated in a learning seminar on the basics of random matrix theory.
 - **Jan 2026:** I passed my PhD Qualifying Review exams!
 

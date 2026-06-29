@@ -4,7 +4,7 @@ title: "Research"
 
 ## Overview
 
-I am interested in questions at the interface of random matrix theory, high-dimensional probability, spin glass models, as well as their applications to learning theory.
+I am interested in questions at the interface of random matrix theory, high-dimensional probability, spin glass models, and their applications to machine learning theory.
 
 I also want to learn more about integrable probability and KPZ universality.
 
@@ -16,8 +16,7 @@ During the [SMALL REU](https://hub.williams.edu/math/small/) as an undergraduate
 
 With David Baron, S. Loepp, AnaMaria Perez, and M. Teplitskiy. *Beiträge zur Algebra und Geometrie / Contributions to Algebra and Geometry*.
 
-**Summary.**  
-We characterize which complete local Noetherian rings of characteristic zero arise as completions of quasi-excellent local domains. We also construct examples controlling saturated chains of primes, including noncatenary quasi-excellent local domains.
+**Summary:** We characterize which complete local Noetherian rings of characteristic zero arise as completions of quasi-excellent local domains. We also construct examples controlling saturated chains of primes, including noncatenary quasi-excellent local domains.
 
 **Links:**  [PDF](https://arxiv.org/pdf/2310.00479) | [arXiv](https://arxiv.org/abs/2310.00479)
 
@@ -42,8 +41,7 @@ We characterize which complete local Noetherian rings of characteristic zero ari
 
 With David Baron, S. Loepp, AnaMaria Perez, and M. Teplitskiy. *Journal of Algebra and Its Applications*.
 
-**Summary.**  
-We give conditions under which prescribed countable families of prime ideals occur as maximal elements in formal fibers over principal prime ideals. We also establish versions where the realizing domain is countable and/or excellent.
+**Summary:** We give conditions under which prescribed countable families of prime ideals occur as maximal elements in formal fibers over principal prime ideals. We also establish versions where the realizing domain is countable and/or excellent.
 
 **Links:**  [PDF](https://arxiv.org/pdf/2311.15797) | [arXiv](https://arxiv.org/abs/2311.15797)
 
